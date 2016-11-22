@@ -92,10 +92,24 @@ module.exports = class webScrapingController {
       return this.scrapePage(url).then(page => {
         var pageDataArr = this.getDetailUrlPosts(page)
         var pageDataPromiseArr = pageDataArr.map(i => {
-          return this.scrapePage(i.url).then($ => this.scrapeDetail($))
+          return Promise.all([
+
+            this.scrapePage(i.url).then($ => this.scrapeDetail($)),
+            requestPromise(i.url).then(html => html)
+
+          ])
         })
-        return Promise.all(pageDataPromiseArr)
+         return Promise.all(pageDataPromiseArr).then(page_data_arr => {
+           return page_data_arr.map(pos => {
+             return {
+               raw_html: pos[1],
+               mapped: pos[0]
+             }
+           })
+         })
       })
     }
+
+
   }
 }
