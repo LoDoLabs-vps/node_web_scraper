@@ -1,0 +1,881 @@
+[{
+  "title": "Mean Servers – KVM VPS in Denver and LA – $15/year 128MB, $7/month 1GB and more",
+  "tags": [
+    "denver",
+    "ipv6",
+    "kvm",
+    "los angeles",
+    "meanservers.com",
+    "USA"
+  ],
+  "models_vailable": [{
+    "Unmanaged 256MB\n": [
+      "",
+      "256MB RAM",
+      "1x CPU core (1x prio)",
+      "20GB SAS disk space",
+      "200GB transfer",
+      "1x IPv4",
+      "/64 IPv6",
+      "KVM/SolusVM",
+      "$7.50/quarter",
+      "Order here",
+      ""
+    ],
+    "\n": [
+      "",
+      "512MB RAM",
+      "1x CPU core (2x prio)",
+      "40GB SAS disk space",
+      "500GB transfer",
+      "1x IPv4",
+      "/64 IPv6",
+      "KVM/SolusVM",
+      "$5/month",
+      "Order here",
+      ""
+    ],
+    "Unmanaged 512MB": [
+      "",
+      "1GB RAM",
+      "1x CPU core (3x prio)",
+      "100GB SAS disk space",
+      "1.5TB transfer",
+      "1x IPv4",
+      "/64 IPv6",
+      "KVM/SolusVM",
+      "$7/month",
+      "Order here",
+      ""
+    ]
+  }],
+  "paragraphs": [
+    "Mean Servers has sent in several LET exclusive offers to us, available in both Los Angeles and Denver. According to David these are exclusive to LowEndBox and LowEndTalk. As our first resident host, these offers should be considered safe for production usage!",
+    "Unmanaged 128MB LET Exclusive\nLimited Quantity",
+    "The above is just a taste of what they’ve got; for more offers click ‘Read more’!",
+    "Mean Servers is a registered company in Colorado, where they also have an office, and the company is in ‘Good Standing’ – if that’s an official term. Their domain has been registered since April 2014 and they launched in August 2014, and even though they’re fairly young they have established a decent business in just over a year seemingly without having to do anything crazy. They offer 24/7 ticket support, with live chat and phone support available during business hours (9AM – 5PM Denver time). Put that on top of their 99.99% uptime guarantee covered by their Service Level Agreement and you should be covered for both personal and business needs.",
+    "Reviews on their last offer were either sketchy, answered, or positive. One user mentioned a $150 fee in case of severe abuse to the host node – be sure to read up the details on that. We also look forward to hearing your reviews now!",
+    "",
+    "Their offers run on HP or Super Micro servers, all owned by them, which is located in either ViaWest in Denver or Psychz in Los Angeles. They never oversell their hardware and have enough capacity available to honor your upgrade requests (within reason that is) within 15 minutes. All nodes have a 10Gbps connection and feature native IPv4 and IPv6. Unfortunately we don’t know the details on the hardware in the servers, but I’m pretty sure someone from Mean Servers is willing to provide an insight into this when requested. A list of the available ISOs can be found in their knowledge base.",
+    "Here’s the other three offers we were sent:",
+    "",
+    "",
+    "",
+    "Payments can be made using PayPal, BitCoins, and all major credit cards (through Stripe). Their Terms of Service and Acceptable Use Policy are available on their website. Be sure to read up on what’s allowed and what not, and to look up the details of their 99.99% SLA!",
+    "Network information",
+    "ViaWest – Denver, Colorado, USA\nOur IPv4 Test IP is : 216.126.56.214\nOur IPv6 Test IP is: 2606:1880:1::1\nOur Test File is: http://den.meanservers.com/lg/10MB.tar.gz\nFull Looking Glass: http://den.meanservers.com/lg",
+    "Psychz – Los Angeles, California, USA\nOur IPv4 Test IP is : 216.126.59.99\nOur IPv6 Test IP is: 2606:1880:1001:99:da75:a:900d:90a7\nOur Test File is: http://lax.meanservers.com/lg/10MB.tar.gz\nFull Looking Glass: http://lax.meanservers.com/lg"
+  ]
+}, {
+  "title": "SecureDragon – $1.99/month or $9.99/Year 64MB OpenVZ VPS and more in 9 US locations",
+  "tags": [
+    "bitcoins",
+    "chicago",
+    "dallas",
+    "denver",
+    "florida",
+    "Lenoir",
+    "los angeles",
+    "new jersey",
+    "openvz",
+    "phoenix",
+    "portland",
+    "securedragon.net",
+    "tampa"
+  ],
+  "models_vailable": [{
+    "OpenVZ – O64": [
+      "",
+      "64MB RAM",
+      "64MB vSwap",
+      "3GB Disk Space",
+      "250GB/month bandwidth",
+      "1Gbps port",
+      "2 vCPU core",
+      "1 x IPv4",
+      "/64 IPv6",
+      "OpenVZ/Wyvern",
+      "$1.99/month or $9.99/year",
+      "Order Here",
+      ""
+    ],
+    "OpenVZ – O128": [
+      "",
+      "128MB RAM",
+      "128MB vSwap",
+      "10GB Disk Space",
+      "500GB/month bandwidth",
+      "1Gbps port",
+      "2 vCPU core",
+      "1 x IPv4",
+      "/64 IPv6",
+      "OpenVZ/Wyvern",
+      "$2.49/month or $14.99/year",
+      "Order Here",
+      ""
+    ],
+    "OpenVZ – O256": [
+      "",
+      "256MB RAM",
+      "256MB vSwap",
+      "15GB Disk Space",
+      "500GB/month bandwidth",
+      "1Gbps port",
+      "2 vCPU core",
+      "1 x IPv4",
+      "/64 IPv6",
+      "OpenVZ/Wyvern",
+      "$2.99/month or $24.99/year",
+      "Order Here",
+      ""
+    ]
+  }],
+  "paragraphs": [
+    " ",
+    "This is another post where the offers is not from our ticketing system.  Maarten gave me the opportunity to pick a host I would like to feature.  It is my pleasure to write about the very first host I tried in LEB – Secure Dragon.",
+    "I was using a VPS for a very long time already, but due to a sudden budget constraint, I needed a cheaper alternative to what I was using back then.  My research made me discover LowEndBox. It was a surprise to me that a VPS service can be bought under $7 dollars.  At such prices, I felt that I will get what I am paying for, but I was hoping to find a gem where quality service can be had at truly amazing prices.",
+    "I read through a lot of post in LowEndBox and reviews at 96MB, and I was very impressed with what was written about Secure Dragon and KuJoe.  I tried their services, and indeed they were very good.  Even when I have no current service with them, I am fairly confident that they are still a quality provider today.",
+    "Here are some offers I found from their website.  Note that their regular prices are already very good and competitive.",
+    "",
+    "",
+    "",
+    "They have more plans from their website that includes KVM VPS, Storage VPS, DDOS Protected VPS and Web Hosting.",
+    "",
+    "Secure Dragon are located in 9 locations within the United States. It includes the following:",
+    "To those who are not aware, Secure Dragon is using their own control panel named Wyvern.  You can read about it’s cool features here.  Their website also states that their services comes with free weekly data backups!",
+    "Secure Dragon accept payments via Paypal, Credit Card, and Bitcoin.  Note that BitCoin payments are usually non-refundable.  As they pride themselves with quality, they have a 30 day money back guarantee in place.  As always, kindly read their Terms of Service, and Acceptable Use Policy before making any purchase.",
+    "Network information",
+    "",
+    "CNServers – Portland, OR\nTest IPv4: 198.57.47.4\nTest IPv6: 2001:470:ea86:80ba::4\nTest File: 100MB",
+    "QuadraNet – Los Angeles, CA\nTest IPv4: 162.211.65.4\nTest IPv6: 2602:fff6:1::4:4\nTest File: 100MB",
+    "PhoenixNAP – Phoenix, AZ\nTest IPv4: 162.253.177.4\nTest IPv6: 2602:fff6:5::4:4\nTest File: 100MB",
+    "Handy Networks – Denver, CO\nTest IPv4: 198.57.46.4\nTest IPv6: 2602:fff6:d::4:4\nTest File: 100MB",
+    "Steadfast Networks – Chicago, IL\nTest IPv4: 162.211.66.4\nTest IPv6: 2602:fff6:2::4:4\nTest File: 100MB",
+    "QuadraNet – Dallas, TX\nTest IPv4: 162.253.178.4\nTest IPv6: 2602:fff6:6::4:4\nTest File: 100MB",
+    "E Solutions – Tampa, FL\nTest IPv4: 199.167.31.4\nTest IPv6: 2602:fff6:f::4:4\nTest File: 100MB",
+    "Dacentec – Lenoir, NC\nTest IPv4: 162.211.67.4\nTest IPv6: 2602:fff6:3::4:4\nTest File: 100MB",
+    "DuPont Fabros – Piscataway, NJ\nTest IPv4: 162.253.176.4\nTest IPv6: 2602:fff6:4::4:4\nTest File: 100MB"
+  ]
+}, {
+  "title": "Mean Servers – KVM with Free DirectAdmin from  $5/month in Denver",
+  "tags": [
+    "denver",
+    "exclusive",
+    "kvm",
+    "meanservers.com",
+    "ssd-cached",
+    "USA"
+  ],
+  "models_vailable": [{
+    "512MB KVM": [
+      "",
+      "512MB RAM",
+      "1 CPU core (x2 priority)",
+      "40GB SSD-Cached SAS HDD space",
+      "500GB transfer",
+      "100Mbps uplink",
+      "1x IPv4",
+      "/96 IPv6",
+      "Free DirectAdmin",
+      "KVM/Virtualizor",
+      "$5/month",
+      "Order here",
+      ""
+    ],
+    "1GB KVM": [
+      "",
+      "1GB RAM",
+      "1 CPU core (x3 priority)",
+      "100GB SSD-Cached SAS HDD space",
+      "1500GB transfer",
+      "100Mbps uplink",
+      "1x IPv4",
+      "/96 IPv6",
+      "Free DirectAdmin",
+      "KVM/Virtualizor",
+      "$7/month",
+      "Order here",
+      ""
+    ],
+    "": [
+      ""
+    ]
+  }],
+  "paragraphs": [
+    "",
+    "David, from Mean Servers, is back with another exclusive offer for the LowEndBox readers. Similar to their previous offer, they included two KVM plans located in Denver, Colorado, USA. But they are giving more resources this time around for the same price. On top of that, they included free DirectAdmin for both package. This is truly a great value offer. So a big thanks to David for bringing this to the community!",
+    "",
+    "",
+    "Mean Servers was founded in May of 2014. They are a registered company in Great State of Colorado and their WHOIS information is public. They own all their equipment and their office is at the same building as the data center. They also have their own IP addresses directly from ARIN, and do not depend from allocation of their upstream. These are all positive indicators that they are into long term business operation.",
+    "We do not have information on exact host node build. But what we know is that they are using Intel Xeon Processors running at 2.93 GHz, 15k SAS drives in RAID 10, and are connected to a 10Gbps uplink. They take pride that they have amazing network and that their setup is supports both IPv4 and IPv6 natively, without using tunnels. David also told us that they NEVER oversell, and that they could easily upgrade resources of any plan within 15 minutes! We would appreciate if current customers will share their feedback at the comment section below.",
+    "PayPal, credit cards (through Stripe), and Bitcoins are payment methods available. They offer a 48 hour money back guarantee to all new clients. If a customer is not happy within 48 hours for any reason, refunds will be given minus the cost of any addons. (Note that it may take upto 7 days to process a refund, to ensure that TOS and AUP were not violated). Support via ticket is available 24/7, but phone and live chat are also in place during business hours (9AM to 5PM Denver time). They provide 99.99% SLA. As always, kindlyread their Terms of Service carefully before making any purchase.",
+    "Network information",
+    "Handy Networks – Denver, Colorado, USA\nTest IPv4: 104.219.169.11\nTest IPv6: 2607:fc88:0:981::1\nTest File: http://den.meanservers.com/lg/10MB.tar.gz\nLooking glass: http://den.meanservers.com/lg"
+  ]
+}, {
+  "title": "Secure Dragon – 128MB OVZ in 9 US locations for $2.49/month and more",
+  "tags": [
+    "chicago",
+    "dallas",
+    "denver",
+    "ipv6",
+    "Lenoir",
+    "los angeles",
+    "openvz",
+    "phoenix",
+    "Piscataway",
+    "portland",
+    "securedragon.net",
+    "tampa",
+    "USA"
+  ],
+  "models_vailable": [{
+    "O128": [
+      "",
+      "128MB RAM",
+      "128MB vSwap",
+      "10GB HDD space",
+      "500GB transfer",
+      "1Gbps uplink",
+      "1x IPv4",
+      "/64 IPv6",
+      "OpenVZ/Wyverin",
+      "$2.49/month",
+      "$14.99/year",
+      "Order here",
+      ""
+    ],
+    "O512": [
+      "",
+      "512MB RAM",
+      "512MB vSwap",
+      "20GB HDD space",
+      "750GB transfer",
+      "1Gbps uplink",
+      "1x IPv4",
+      "/64 IPv6",
+      "OpenVZ/Wyverin",
+      "$4.99/month",
+      "$39.99/year",
+      "Order here",
+      ""
+    ],
+    "O1024": [
+      "",
+      "1024MB RAM",
+      "1024MB vSwap",
+      "25GB HDD space",
+      "1000GB transfer",
+      "1Gbps uplink",
+      "1x IPv4",
+      "/64 IPv6",
+      "OpenVZ/Wyverin",
+      "$6.99/month",
+      "Order here",
+      ""
+    ]
+  }],
+  "paragraphs": [
+    "Joe, from Secure Dragon, didn’t send in a ticket to inform us of these VPS he offers. Instead, I went to his website and decided to list it from there, as part of my initiative to start listing offers from providers on my own initiative.",
+    "",
+    "",
+    "",
+    "Secure Dragon has been around for quite a long time now and Joe was helping out LowEndAdmin during the first years of the website. He was even one of the first LET members on Vanilla. He has been slowly building and expanding his business which now spreads across a whopping nine US locations. On top of that, they have their custom control panel called Wyverin (which is being continuously improved), they own all their servers in all locations, and they get their IPs from ARIN. Reviews are predominantly very positive and I can attest to that myself. If you are currently a customer at Secure Dragon or decide to pick up one of these boxes as a result of this post, please let us know how things go!",
+    "",
+    "Secure Dragon is a registered business in Florida, USA and has been since 2010. There’s a 30-day money back guarantee, though it’s only valid for the first 30 days of a client account. Servers include free weekly offsite backups and are hosted on host nodes with hardware RAID with battery backup. There’s a 99.9% monthly uptime guarantee in place with credits in case they fail to meet that (excludes planned maintenance). Payment can be made with PayPal, Bitcoin, and credit cards.",
+    "For all details about what’s allowed and now, please read their Terms of Service, Acceptably Use Policy, and Privacy Policy!",
+    "Network information",
+    "OpenVZ servers are available in the USA in the following cities, KVM server locations are highlighted:\n– Portland, Oregon\n– Los Angeles, California\n– Phoenix, Arizona\n– Denver, Colorado (KVM)\n– Chicago, Illinois\n– Dallas, Texas\n– Tampa, Florida (KVM)\n– Lenoir, North Carolina\n– Piscataway, New Jersey",
+    "Please refer to drgn.biz for test IPs and files."
+  ]
+}, {
+  "title": "Mean Servers – KVMs in Denver – $5/month 512MB and $7/month 1GB",
+  "tags": [
+    "denver",
+    "exclusive",
+    "kvm",
+    "meanservers.com",
+    "ssd",
+    "USA"
+  ],
+  "models_vailable": [{
+    "512MB KVM": [
+      "",
+      "512MB RAM",
+      "1 CPU core (1x priority)",
+      "15GB SAS HDD space, or",
+      "5GB SSD space",
+      "500GB transfer",
+      "100Mbps uplink",
+      "1x IPv4",
+      "4x IPv6",
+      "Free DirectAdmin",
+      "KVM/Virtualizor",
+      "$5/month",
+      "Order with SAS",
+      "Order with SSD",
+      ""
+    ],
+    "1GB KVM": [
+      "",
+      "1GB RAM",
+      "2 CPU core (1x priority)",
+      "35GB SAS HDD space, or",
+      "15GB SSD space",
+      "2TB transfer",
+      "100Mbps uplink",
+      "1x IPv4",
+      "4x IPv6",
+      "KVM/Virtualizor",
+      "$7/month",
+      "Order with SAS",
+      "Order with SSD",
+      ""
+    ],
+    "": [
+      ""
+    ]
+  }],
+  "paragraphs": [
+    "David, from Mean Servers, wrote us to inform us of two offers he has in Denver, Colorado, USA. The first one of these comes with free DirectAdmin! Both offers are exclusive to LowEndBox.",
+    "",
+    "",
+    "Mean Servers has been launched in August of 214, so they’re quite young. Their WHOIS information is public and I have found a record of them being a registered business which may be found here. They seem to have been established at the end of may. They use a DC in downtown Denver and that’s not the most common location for hosting, especially not around LowEndb. They use Dell and HP servers. Support is not outsourced overseas and never will be, according to David. They do offer 24/7/365 support and a 99.9% uptime guarantee. I look forward to hearing people’s experiences with these guys!",
+    "",
+    "PayPal, credit cards, and Bitcoins are payment methods available. No refunds are given. There’s plenty of upgrade offers available as well as add-ons during ordering, but those would bring the price over our $7 limit. As always, please read their Terms of Service before ordering.",
+    "Network information",
+    "Handy Networks – Denver, Colorado, USA\nTest IPv4: 23.239.205.129\nTest IPv6: 2607:fc88:100:22::1\nLooking glass: https://www.meanservers.com/den/lg/"
+  ]
+}, {
+  "title": "VPSDime – $7/Month 6GB RAM OpenVZ (US) + Backupsy – $7/Month 250GB KVM (US/UK)",
+  "tags": [
+    "Backupsy.com",
+    "buffalo",
+    "chicago",
+    "dallas",
+    "denver",
+    "los angeles",
+    "netherlands",
+    "orlando",
+    "uk",
+    "USA",
+    "VPSDime"
+  ],
+  "models_vailable": [{
+    "VPSDime 6GB\n": [
+      "",
+      "6GB RAM",
+      "30GB Disk space",
+      "4 vCPU cores",
+      "2TB Bandwidth",
+      "1x IPv4 Address",
+      "4x 1Gbps uplink",
+      "OpenVZ/Custom Panel",
+      "$7/Month",
+      "Order here",
+      "(Dallas, TX, USA)",
+      ""
+    ],
+    " VPSDime 2GB": [
+      "",
+      "2GB RAM",
+      "10GB Disk space",
+      "2 vCPU cores",
+      "2TB Bandwidth",
+      "1x IPv4 Address",
+      "4x 1Gpbs uplink",
+      "OpenVZ/Custom Panel",
+      "$48/Year",
+      "Order here ",
+      "(Dallas, TX, USA)",
+      ""
+    ],
+    "\n": [
+      "",
+      "512MB RAM",
+      "250GB Disk",
+      "1 vCPU cores",
+      "1TB Bandwidth",
+      "1z IPv4 Address",
+      "1Gps uplink",
+      "KVM/Custom Panel",
+      "$7/Month",
+      "Order here ",
+      "(Kent, UK)",
+      "Coupon: UWOTMATE",
+      ""
+    ]
+  }, {
+    "VPSDime 6GB\n": [
+      "",
+      "512MB RAM",
+      "100GB Disk space",
+      "1 vCPU cores",
+      "1TB Bandwidth",
+      "1x IPv4 Address",
+      "1Gbps uplink",
+      "KVM/Custom Panel",
+      "$48/year",
+      "Order here ",
+      "(Kent, UK)",
+      "No coupon needed",
+      ""
+    ],
+    " VPSDime 2GB": [
+      "",
+      "512MB RAM",
+      "5GB Disk",
+      "1 vCPU cores",
+      "1TB Bandwidth",
+      "1x IPv4 Address",
+      "4x 1Gpbs uplink",
+      "OpenVZ/Custom Panel",
+      "$20/Year",
+      "Order here ",
+      "(Dallas, TX, USA)",
+      "No coupon needed",
+      ""
+    ],
+    "\n": [
+      "",
+      "512MB RAM",
+      "500GB Disk space",
+      "1 vCPU cores",
+      "2TB Bandwidth",
+      "1x IPv4 Address",
+      "1Gbps uplink",
+      "KVM/Custom Panel",
+      "$7/Month",
+      "Order here ",
+      "(Multiple locations)",
+      "Coupon: LEBNOV500",
+      ""
+    ]
+  }, {
+    "VPSDime 6GB\n": [
+      ""
+    ],
+    " VPSDime 2GB": [
+      ""
+    ],
+    "\n": [
+      ""
+    ]
+  }],
+  "paragraphs": [
+    "",
+    "Oktay, known from Backupsy and Cloudive is back with several offers from his new brand VPSDime as well as a few of the Backupsy offers which have been featured here before. Backupsy recently expanded to the United Kingdom, bringing the total number of locations they have to 8!",
+    "",
+    "",
+    "",
+    "This is the first time we’re featuring VPSDime, however Oktay has featured it a few times on he is a known community member on LET. This is the fourth time we’re featuring Backupsy. Backupsy, which launched in April 2013, has since expanded to a massive eight locations, of which the UK is the newest. Cloudive is exactly a year older than Backupsy, so Oktay and his partners have been along for a while. Oktay and his brands are known for the custom control panel they utilize at all their brands, always fully integrated into the billing area. The VPSDime nodes are dual E5 2620’s with 384GB RAM and 8 x 10K RPM Hard drives in RAID10. Backupsy nodes pack dual X5570’s with 96GB RAM and 12 x Seagate Constellation 3TB hard drives in RAID50. Newer Backupsy nodes use 14 x Hitachi Ultrastar 4TB hard drives in RAID50. All of the Backupsy hardware is owned and colocated at the respective facilities, the VPSDime hardware is rented from Incero. The reviews for Backupsy have been positive and I’ve even found a review for VPSDime! Please share you experiences here as well.",
+    "More offers after you click ‘Read more’.",
+    "",
+    "Payments for both sites are accepted via PayPal and credit and debit cards via 2Checkout. Backupsy VPS’s are allowed to run any software/OS “that assists backing up, owncloud, private VPN/Proxy, development, monitoring and other light CPU and non-IO intensive applications except torrents, TOR and game servers,” however their NL location is allowed to run anything except Torrents, TOR and Game Servers. VPSDime VPS are allowed anything except BitTorrent, TOR, Public VPNs/Open Proxies, MineCraft Servers, CamFrog, Digital Currency Mining and illegal activity. The full TOS are available here for VPSDime and here for Backupsy. Please share your experiences below, as always!",
+    "Network information"
+  ]
+}, {
+  "title": "VPSDime – $7/Month 6GB RAM OpenVZ (Dallas) + Backupsy – $7/Month 250GB KVM (US/UK)",
+  "tags": [
+    "buffalo",
+    "chicago",
+    "denver",
+    "netherlands",
+    "new jersey",
+    "orlando",
+    "ssd",
+    "storage"
+  ],
+  "models_vailable": [{
+    "#Cloudive#": [
+      "",
+      "2GB RAM",
+      "15GB SSD Disk",
+      "2 vCPU cores",
+      "1TB Bandwidth",
+      "1 IPv4 Address",
+      "1Gbit connection",
+      "KVM/Custom Panel",
+      "$7/Month",
+      "Order here",
+      "(New Jersey – Choopa)",
+      ""
+    ],
+    " #Backupsy#": [
+      "",
+      "512MB RAM",
+      "500GB Disk",
+      "1 vCPU cores",
+      "2TB Bandwidth",
+      "1 IPv4 Address",
+      "1Gbit connection",
+      "KVM/Custom Panel",
+      "$7/Month",
+      "Order here ",
+      "(Orlando, Buffalo, Dallas, Los Angeles)",
+      "Coupon code: SMOKING",
+      ""
+    ],
+    "\n": [
+      ""
+    ]
+  }, {
+    "#Cloudive#": [
+      "",
+      "512MB RAM",
+      "250GB Disk",
+      "1 vCPU cores",
+      "1TB Bandwidth",
+      "1 IPv4 Address",
+      "1Gbit connection",
+      "KVM/Custom Panel",
+      "$5/Month",
+      "Order here ",
+      "(Netherlands)",
+      "Coupon code: DUTCHSUMMER",
+      ""
+    ],
+    " #Backupsy#": [
+      "",
+      "512MB RAM",
+      "250GB Disk",
+      "1 vCPU cores",
+      "2TB Bandwidth",
+      "1 IPv4 Address",
+      "1Gbit connection",
+      "KVM/Custom Panel",
+      "$5/Month",
+      "Order here ",
+      "(Orlando, Buffalo, Dallas, Los Angeles)",
+      "Coupon code: BIGDADDY",
+      ""
+    ],
+    "\n": [
+      "",
+      "512MB RAM",
+      "100GB Disk",
+      "1 vCPU cores",
+      "1TB Bandwidth",
+      "1 IPv4 Address",
+      "1Gbit connection",
+      "KVM/Custom Panel",
+      "$40/Year",
+      "Order here ",
+      "(Orlando, Buffalo, Dallas, Los Angeles)",
+      ""
+    ]
+  }, {
+    "#Cloudive#": [
+      ""
+    ],
+    " #Backupsy#": [
+      ""
+    ],
+    "\n": [
+      ""
+    ]
+  }],
+  "paragraphs": [
+    "",
+    "Oktay, from Backupsy and Cloudive is back with one exclusive offer from Cloudive as well as a few of the Backupsy offers which have been featured here before. They have since added Orlando, Denver and Los Angeles, however Chicago and Denver are out of stock for this offer.\n",
+    "",
+    "",
+    "This is the first time Cloudive has been featured here, however Oktay has featured it a few times on LET. This is also the third time Backupsy has been featured here. Although Backupsy was founded in April 2013 they have expanded exponentially and continue to expand, Cloudive is exactly a year older than Backupsy and has been providing ‘cloud’ VPS’s. It’s also worth noting the custom control panel they utilize. The Cloudive nodes are Dual X5650’s with 144GB RAM  and 8 x Intel 520 SSD in RAID10, while the Backupsy nodes are Dual X5570’s with 96GB RAM and 12 x Seagate Constellation 3TB in RAID50. All of the hardware is owned and colocated at the respective facilities. The reviews for Backupsy have been consistently good, and similarly with Cloudive.",
+    "Payments for both sites are accepted via PayPal and credit+debit cards via 2Checkout. Backupsy VPS’s are allowed to run any software/OS “that assists backing up, owncloud, private VPN/Proxy, development, monitoring and other light CPU and IO intensive applications except torrents, TOR and game servers,” however their NL location is allowed to run anything except Torrents, TOR and Game Servers. Cloudive VPS’s are allowed anything except public proxies, TOR, torrents and email marketing. The full TOS are available here for Cloudive and here for Backupsy. Do share your experiences below, as always!",
+    "Network information"
+  ]
+}, {
+  "title": "Front Range Hosting – $1/Month 128MB OpenVZ VPS in Denver, Colorado",
+  "tags": [
+    "colorado",
+    "denver",
+    "exclusive",
+    "frontrangehosting.com",
+    "openvz"
+  ],
+  "models_vailable": [{
+    "OVZ-128": [
+      "",
+      "128MB RAM",
+      "128MB vSwap",
+      "5GB Diskspace",
+      "250GB Bandwidth",
+      "4 vCPU Cores",
+      "1 IPv4 Address",
+      "1 IPv6 Address",
+      "OpenVZ/SolusVM",
+      "$1.00/Month",
+      "Direct Order Link",
+      ""
+    ],
+    "KVM-256D": [
+      "",
+      "256MB RAM",
+      "15GB Diskspace",
+      "512GB Bandwidth",
+      "2 vCPU Cores",
+      "1 IPv4 Address",
+      "1 IPv6 Address",
+      "KVM/SolusVM",
+      "$2.00/Month",
+      "Direct Order Link",
+      ""
+    ],
+    "OVZ-512": [
+      "",
+      "512MB RAM",
+      "512MB vSwap",
+      "20GB Diskspace",
+      "1TB Bandwidth",
+      "4 vCPU Cores",
+      "1 IPv4 Address",
+      "1 IPv6 Address",
+      "OpenVZ/SolusVM",
+      "$4.00/Month",
+      "Direct Order Link",
+      ""
+    ]
+  }, {
+    "OVZ-128": [
+      "",
+      "512MB RAM",
+      "30GB DiskSpace",
+      "1000GB Bandwidth",
+      "2 vCPU Cores",
+      "1 IPv4 Address",
+      "1 IPv6 Address",
+      "KVM/SolusVM",
+      "$4.00/Month",
+      "Direct Order Link",
+      ""
+    ],
+    "KVM-256D": [
+      ""
+    ],
+    "OVZ-512": [
+      ""
+    ]
+  }],
+  "paragraphs": [
+    "Corey, from FrontRangeHosting, has sent in four different OpenVZ and KVM offers for LowEndBox users. You will have to use the promotional code 50OFF to get the advertised prices. ",
+    "",
+    "",
+    "",
+    "Front Range Hosting was founded in 2011 as a Colorado LLC. They currently have over 1200 customers and have been featured on LowEndBox quite a few times before. The promotion code works on all of their OpenVZ and KVM plans until June 1st. All promos are good while stock lasts, they will evaluate stock daily and rebalance as necessary to ensure maximum availability. Interesting things seem to lay ahead for FRH, Corey posted a thread seeking investment for expansion yesterday. Reviews on their last thread were all great.\n\nFront Range Hosting accept payments via 2Checkout, Paypal, Amazon Simple Pay and Credit Card. They operate their own ASN and has their own IP space. Additional IPv4 addresses will cost $1 per month. Front Range Hosting are running Intel Xeon E5-2620 Based Nodes with LSI CacheCade SSD Cacheing Technology. For more information, have a read of their Terms of Service and Acceptable Usage Policy.",
+    "",
+    "Network Information:",
+    "Servers are located at the Data102 datacenter in Colorado Springs, Colorado (USA).",
+    "Test IPv4: 198.147.20.15\nTest IPv6: 2604:2880::e191:6267\nTest File: http://testden.frontrangehosting.com/test10m.dat"
+  ]
+}, {
+  "title": "ServerDragon – $8/Year 32MB OpenVZ VPS in Tampa and Denver + Backup VPS",
+  "tags": [
+    "backup",
+    "denver",
+    "florida",
+    "openvz",
+    "serverdragon.com",
+    "tampa"
+  ],
+  "models_vailable": [{
+    "OpenVZ 032": [
+      "",
+      "32MB RAM",
+      "32MB vSwap",
+      "1 vCPU Core",
+      "2GB Diskspace",
+      "500GB Bandwidth",
+      "1 IPv4 Address",
+      "4 IPv6 Addresses",
+      "OpenVZ/SolusVM",
+      "Coupon: SAVE299",
+      "$8/Year | Order",
+      ""
+    ],
+    "SAVE299": [
+      "",
+      "64MB RAM",
+      "64MB vSwap",
+      "1 vCPU Core",
+      "3GB Diskspace",
+      "500GB Bandwidth",
+      "1 IPv4 Address",
+      "4 IPv6 Addresses",
+      "OpenVZ/SolusVM",
+      "Coupon: SAVE299",
+      "$10/Year | Order",
+      ""
+    ],
+    "OpenVZ 064": [
+      "",
+      "128MB RAM",
+      "128MB vSwap",
+      "1 vCPU Core",
+      "10GB Diskspace",
+      "500GB Bandwidth",
+      "1 IPv4 Address",
+      "4 IPv6 Addresses",
+      "OpenVZ/SolusVM",
+      "Coupon: SAVE299",
+      "$15/Year | Order",
+      ""
+    ]
+  }, {
+    "OpenVZ 032": [
+      "",
+      "96MB RAM",
+      "96MB vSwap",
+      "1 vCPU Core",
+      "5GB Diskspace",
+      "500GB Bandwidth",
+      "1 IPv4 Address",
+      "4 IPv6 Addresses",
+      "OpenVZ/SolusVM",
+      "Coupon: SAVE299",
+      "$12/Year | Order",
+      ""
+    ],
+    "SAVE299": [
+      "",
+      "128MB RAM",
+      "128MB vSwap",
+      "0.5 CPU Core",
+      "25GB Diskspace",
+      "200GB Bandwidth",
+      "1 IPv4 Address",
+      "1 IPv6 Address",
+      "OpenVZ/SolusVM",
+      "$2.99/Month | Order",
+      "Denver Only.",
+      ""
+    ],
+    "OpenVZ 064": [
+      "",
+      "128MB RAM",
+      "128MB vSwap",
+      "0.5 CPU Core",
+      "50GB Diskspace",
+      "400GB Bandwidth",
+      "1 IPv4 Address",
+      "1 IPv6 Address",
+      "OpenVZ/SolusVM",
+      "$4.99/Month | Order",
+      "Denver Only.",
+      ""
+    ]
+  }],
+  "paragraphs": [
+    "",
+    "Joe, from ServerDragon, has sent in four OpenVZ yearly offers and three backup offers for LowEndBox readers. The OpenVZ yearly are available in either Tampa or Denver, but the backup servers are only available in Denver.",
+    "",
+    "",
+    "",
+    "ServerDragon have appeared twice before on LowEndBox. They were previously called SecureDragon and have been featured many times before with that brand. OpenVZ yearly plans are using RAID 10 and have a 100Mbps uplink. Backup servers are using RAID 5 and also have a 100Mbps uplink (1Gbps up). Average ticket response time is 31 minutes! ServerDragon came eighth on our last top providers poll. The promotion code only works on yearly billing. The offer will end on the 17th or once the coupon has been used 30 times. The vast majority of the reviews on their last offer were good.\n",
+    "",
+    "",
+    "",
+    "",
+    "ServerDragon accept payments via Paypal, Google Wallet, Payza and Bitpay (bitcoins). They offer a 30 day moneyback guarantee and provide a 99.9% Uptime SLA. Servers will be instantly activated. Additional IPv6 addresses are free. Tor, torrents and spam are not allowed. IRC clients are allowed. TUN/TAP/PPTP/rDNS can be set at SolusVM. You can view their DDOS protected plans here and their server status page here. For further information, take a look at their Terms of Service.",
+    "Network Information:",
+    "In Tampa (Florida), they are at the E Solutions datacenter and in Denver (Colorado), they are at the Handy Networks datacenter.",
+    "Test IPv4 Tampa: 199.167.29.3\nTest IPv6 Tampa: 2607:f3f0:2::45fa:dbe8\nTest File Tampa: http://199.167.29.3/100MB.zip",
+    "Test IPv4 Denver: 198.57.46.3\nTest IPv6 Denver: 2607:fc88:1003::e581:abf2\nTest File Denver: http://198.57.46.3/100MB.zip"
+  ]
+}, {
+  "title": "Front Range Hosting – $3/Month 512MB KVM VPS in Colorado",
+  "tags": [
+    "colorado",
+    "denver",
+    "exclusive",
+    "frontrangehosting.com",
+    "kvm",
+    "openvz"
+  ],
+  "models_vailable": [{
+    "KVM-512": [
+      "",
+      "512MB memory",
+      "10GB SSD Cached Disk Space",
+      "1TB Bandwidth",
+      "4 vCPU Cores",
+      "1 IPv4 Address",
+      "1 IPv6 Address",
+      "KVM/SolusVM",
+      "$3.00/Month – Promo Code FRH40",
+      "Direct Order Link",
+      ""
+    ],
+    "SSD": [
+      "",
+      "128MB memory / 128MB vSwap",
+      "5GB SSD Cached Disk Space",
+      "250GB Bandwidth",
+      "4 vCPU Cores",
+      "1 IPv4 Address",
+      "1 IPv6 Address",
+      "OpenVZ/SolusVM",
+      "$1.20/Month – Promo Code FRH40",
+      "Direct Order Link",
+      ""
+    ],
+    "FRH40": [
+      ""
+    ]
+  }, {
+    "KVM-512": [
+      "",
+      "256MB memory / 256MB vSwap",
+      "10GB Raid-10 SSD Cached Disk Space",
+      "500GB Bandwidth",
+      "4 vCPU Cores",
+      "1 IPv4 Address",
+      "1 IPv6 Address",
+      "OpenVZ/SolusVM",
+      "$2.40/Month – Promo Code FRH40",
+      "Direct Order Link",
+      ""
+    ],
+    "SSD": [
+      "",
+      "384MB memory / 384MB vSwap",
+      "15GB Raid-10 SSD Cached Disk Space",
+      "750GB Bandwidth",
+      "4 vCPU Cores",
+      "1 IPv4 Address",
+      "1 IPv6 Address",
+      "OpenVZ/SolusVM",
+      "$3.60/Month – Promo Code FRH40",
+      "Direct Order Link",
+      ""
+    ],
+    "FRH40": [
+      "",
+      "512MB memory / 512MB vSwap",
+      "20GB Raid-10 SSD Cached Disk Space",
+      "1TB Bandwidth",
+      "4 vCPU Cores",
+      "1 IPv4 Address",
+      "1 IPv6 Address",
+      "OpenVZ/SolusVM",
+      "$4.80/Month – Promo Code FRH40",
+      "Direct Order Link",
+      ""
+    ]
+  }],
+  "paragraphs": [
+    " Corey, from FrontRangeHosting, has sent in the same amazing Christmas Deal but with a different coupon code.",
+    "",
+    "",
+    "FrontRangeHosting have been listed on LowEndBox thrice before. This promotion gives you 40% off their normal prices. Their VPS Nodes are built with Supermicro chasis’s and are based around the E5-2620 CPU which runs at 2.0GHz with a turbo speed of 2.5GHz. For diskspace, they use Enterprise 6Gb/s SAS Hard Drives with Intel Gen 2 520 series SSD’s providing SSD caching. They operate their own AS network (AS54856) and own their IPv4 and IPv6 ranges, this allows them to provide services cheaper than other hosts who may be renting.\n\nFrontRangeHosting provide 24/7 support and offer a 99.9% uptime guarantee. They accept major credit cards, Paypal, 2Checkout, Google Wallet and Amazon Pay as payment methods. Unlike most hosts who use the infamous FDCServers to provide services in Colorado, FrontRangeHosting’s servers are located in the Data 102 datacenter in downtown Colorado Springs, Colorado (USA). All plans come with a 30 day money back guarantee. For more information, do check out their Terms Of Service and Acceptable Usage Policy.",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Network Information:",
+    "Servers are located in Colorado Springs, Colorado (USA).",
+    "Test IPv4: 198.147.20.15\nTest IPv6: 2604:2880::e191:6267\nTest File: http://testden.frontrangehosting.com/test10m.dat"
+  ]
+}]
