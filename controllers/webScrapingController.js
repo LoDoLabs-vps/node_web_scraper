@@ -50,6 +50,9 @@ module.exports = class webScrapingController {
   scrapeDetail($) {
     // let $ = cheerio.load(fs.readFileSync('box_detail.html'))
     let tags = []
+    let paragraphs = []
+    let title = $('.post .storytitle a').text()
+
     let table = $(".post .storycontent table").map(function(i, v) {
       var $td = $('td ul', this);
       var $tdTitle = $('td strong')
@@ -60,20 +63,31 @@ module.exports = class webScrapingController {
       return optionObject
     }).get();
 
+    // scrape tags
     $('.post .meta a').each(function(i, elem) {
       tags.push($(this).text())
     })
 
+    // scrape pagragraphs
+    $('.post .storycontent p').each(function(i, elem){
+      paragraphs.push($(this).text())
+    })
+
+    //title
+    
+
     var boxObject = {
-      tags: tags,
-      models_vailable: table
+      title,
+      tags,
+      models_vailable: table,
+      paragraphs
     }
     return boxObject
   }
 
   getAllPageLinks() {
     var promiseArr = []
-    for(let i = 1; i <= 1; i++){
+    for(let i = 1; i < 4; i++){
       let url = "https://lowendbox.com/tag/denver/page/" + i + "/"
       return this.scrapePage(url).then(page => {
         var pageDataArr = this.getDetailUrlPosts(page)
