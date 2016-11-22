@@ -14,5 +14,9 @@ router.get('/scraper', (req, res, next) => {
 router.get('/detail', (req, res, next) => {
   res.json(webScrapingControllerClass.scrapeDetail())
 })
+router.get('/allPages', (req, res, next) => {
+  // res.json(webScrapingControllerClass.getAllPageLinks())
+  webScrapingControllerClass.getAllPageLinks().then(data => res.json(data))
+})
 
 module.exports = router;
